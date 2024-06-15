@@ -30,4 +30,4 @@ Make sure you have a web browser that supports the Web Speech API (e.g., Google 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your-username/voice-enabled-calculator.git
+   git clone https://github.com/your-username/calculator-using-voice.git
