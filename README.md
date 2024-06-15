@@ -13,7 +13,7 @@ A simple, user-friendly calculator with voice input functionality built using HT
 ## Screenshots
 
     ![image](https://github.com/manasvi0109/Calculator-using-voice/assets/171707742/a235b36f-3019-45ec-aaca-22a1377e6774) 
-   ! [image](https://github.com/manasvi0109/Calculator-using-voice/assets/171707742/37d7cac1-fcf3-4382-a663-4eee611ac52c)
+   ![image](https://github.com/manasvi0109/Calculator-using-voice/assets/171707742/37d7cac1-fcf3-4382-a663-4eee611ac52c)
 ![image](https://github.com/manasvi0109/Calculator-using-voice/assets/171707742/a1a25c87-536f-4277-97df-61de6fe3c11b)
 
 
