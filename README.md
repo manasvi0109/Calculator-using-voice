@@ -10,13 +10,6 @@ A simple, user-friendly calculator with voice input functionality built using HT
 - Responsive design.
 
 
-## Screenshots
-
-   ![image](https://github.com/manasvi0109/Calculator-using-voice/assets/171707742/c0a72c2c-2d6d-43a4-8e49-7837ad214edd)
-   ![image](https://github.com/manasvi0109/Calculator-using-voice/assets/171707742/37d7cac1-fcf3-4382-a663-4eee611ac52c)
-![image](https://github.com/manasvi0109/Calculator-using-voice/assets/171707742/a1a25c87-536f-4277-97df-61de6fe3c11b)
-
-
 
 ## Getting Started
 
